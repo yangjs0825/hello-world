@@ -37,3 +37,6 @@ x = np.linalg.solve(a, b)
 # x = np.dot(b,np.linalg.inv(a))
 # print (np.dot(a,x))
 print("x", x)
+
+
+# I just added something for test
